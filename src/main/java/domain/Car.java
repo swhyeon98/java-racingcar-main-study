@@ -13,7 +13,7 @@ public class Car {
         this.position = 0;
     }
 
-    public void move() {
+    public void move(int number) {
         position++;
     }
 
